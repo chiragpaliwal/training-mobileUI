@@ -1,0 +1,57 @@
+body{
+  background-color:  #242536;
+  color: #fff;
+}
+
+nav{
+  background-color: #2c2e48;
+  color: #fff;
+}
+
+.side-nav{
+  width: 200px;
+}
+
+.nav-content{
+  margin: 0 auto;
+}
+
+.nav-content li a i.material-icons{
+
+}
+
+.nav-content p, .nav-content h3{
+  margin: 0;
+  padding: 0;
+}
+
+#nav-mobile{
+  background-color: #2c2e48;
+}
+
+#nav-mobile a{
+  color: #fff;
+}
+
+#nav-mobile img{
+  width: 100px;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  position: relative;
+  margin-right: 50px;
+  right: -25%;
+}
+
+nav ul a
+nav .brand-logo {
+  background-color: #2c2348;
+  color: #fff;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #d8597f;
+}
