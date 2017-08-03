@@ -3420,7 +3420,7 @@ nav ul a span.badge {
   float: left;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  padding: 0 0.75rem;
+  /*padding: 0 0.75rem;*/
   min-height: 1px;
 }
 
@@ -3458,7 +3458,7 @@ nav ul a span.badge {
 
 .row .col.s5 {
   width: 41.6666666667%;
-  margin-left: auto;
+  /*margin-left: auto;*/
   left: auto;
   right: auto;
 }
