@@ -77,6 +77,10 @@ nav .brand-logo {
   text-align: center;
 }
 
+a.badge p{
+  color: #fff;
+}
+
 .badge img{
   margin-top: 30px;
 }
